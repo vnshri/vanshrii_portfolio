@@ -1,3 +1,2 @@
 ## Live Portfolio
-https://vnshri.github.io/vanshri_fresher_portfolio
-
+https://vnshri.github.io/vanshrii_portfolio/
