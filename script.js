@@ -139,3 +139,33 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 });
+
+
+// skills new
+
+
+// theme change 
+// 🌙 Theme Toggle (Dark ↔ Light)
+
+// document.addEventListener("DOMContentLoaded", () => {
+//     const toggleBtn = document.getElementById("theme-toggle");
+//     if (!toggleBtn) return;
+
+//     // Load saved theme
+//     const savedTheme = localStorage.getItem("theme");
+
+//     if (savedTheme === "light") {
+//         document.body.classList.add("light-mode");
+//     }
+
+//     // Toggle on click
+//     toggleBtn.addEventListener("click", () => {
+//         document.body.classList.toggle("light-mode");
+
+//         if (document.body.classList.contains("light-mode")) {
+//             localStorage.setItem("theme", "light");
+//         } else {
+//             localStorage.setItem("theme", "dark");
+//         }
+//     });
+// });
